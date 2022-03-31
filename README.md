@@ -3,3 +3,5 @@ Business Intelligence Project - Machine Learning Algorithms and other tools to a
 
 
 Using R
+Dataset included (bank-additional.csv), extracted from: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+

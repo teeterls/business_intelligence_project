@@ -1,5 +1,5 @@
-#PRACTICA FINAL INTELIGENCIA EMPRESARIAL 1º MIT 
-#Teresa González García
+#PRACTICA FINAL INTELIGENCIA EMPRESARIAL 1Âº MIT 
+#Teresa GonzÃ¡lez GarcÃ­a
 bank <-read.csv("bank-additional.csv",header = TRUE, sep=';')
 summary(bank)
 str(bank)
